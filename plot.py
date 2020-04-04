@@ -4,7 +4,7 @@ import requests
 import matplotlib.pyplot as plt
 import datetime as dt
 
-user_code = input('Enter the first country code: ')
+user_code = input('Enter the country code: ')
 
 url = "https://thevirustracker.com/free-api?countryTimeline="+user_code
 
