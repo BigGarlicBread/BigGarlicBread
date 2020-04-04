@@ -1,4 +1,4 @@
-# Coronavirus_Data
+# COVID-19
 
 This repository is dedicated to COVID-19.
 1. excel.py enables the user to extract data from the web and get an output in an excel sheet for further use.
