@@ -15,6 +15,8 @@ Plot data may differ from the latest data shown on the right because the plot da
 
 # HOW TO USE
 
-To run the software make sure you have installed PyQt5 and Python.
-
-Run the "Main.py" to start the software.
+Option 1: To run the software make sure you have PyQt5 and Python installed.
+          Run the "Main.py" to start the software.
+          
+Option 2: You can download the exe file and directly run it.
+          https://drive.google.com/file/d/1WeVUtTFbzZhqG27h1qfRu1dOn2z4AZBT/view?usp=sharing
