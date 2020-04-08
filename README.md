@@ -13,7 +13,7 @@ https://github.com/AlaeddineMessadi/COVID-19-REPORT-API
 
 Plot data may differ from the latest data shown on the right because the plot data is updated on daily basis and is retrieved from a different API.
 
-# HOW TO USE
+#Hoe to use
 
 Option 1: To run the software make sure you have PyQt5 and Python installed.
           Run the "Main.py" to start the software.
