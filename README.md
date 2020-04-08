@@ -9,9 +9,11 @@ The latest data is retrieved from:
 https://github.com/NovelCOVID/API
 
 The data for the plots is retrieved from:
-<a>https://github.com/AlaeddineMessadi/COVID-19-REPORT-API</a>
+https://github.com/AlaeddineMessadi/COVID-19-REPORT-API
 
+Plot data may differ from the latest data shown on the right because the plot data is updated on daily basis and is retrieved from a different API.
 
+# HOW TO USE
 
 To run the software make sure you have installed PyQt5 and Python.
 
