@@ -53,7 +53,6 @@ class Ui_MainWindow(object):
         latest_plot_data = request_plots(self.c_code)
 
         if latest_plot_data[0] == '0':
-            print('HELLO!!')
             self.invalid_window_popup()
             pass
 
