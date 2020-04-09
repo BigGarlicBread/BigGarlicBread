@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'coqt.ui'
-#
-# Created by: PyQt5 UI code generator 5.13.2
-#
-# WARNING! All changes made in this file will be lost!
-
-
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import *
 from latest_day_data import request_latest_data
@@ -606,7 +597,7 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "COVID-19 Tracker v1.0"))
         self.label_enter_country_name.setText(_translate("MainWindow", "Enter Country Name or Code:"))
         self.get_data_button.setText(_translate("MainWindow", "Get Data*"))
-        self.label_plots_of.setText(_translate("MainWindow", "Plot grahps of:"))
+        self.label_plots_of.setText(_translate("MainWindow", "Plot graphs of:"))
         self.total_cases_box.setText(_translate("MainWindow", "Total Cases"))
         self.total_recoveries_box.setText(_translate("MainWindow", "Total Recoveries"))
         self.total_deaths_box.setText(_translate("MainWindow", "Total Deaths"))
