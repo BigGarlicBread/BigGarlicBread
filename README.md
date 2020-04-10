@@ -17,5 +17,4 @@ https://newsapi.org/
 Plot data may differ from the latest data shown on the right because the plot data is updated on daily basis and is retrieved from a different API.
 
 # How to use
-To run the software make sure you have PyQt5 and Python installed. Run the "Main.py" to start the software.
-      
+To run the software make sure you have PyQt5, Python, and the font 'Montserrat' (provided in the files) installed. Run the "Main.py" to start the software.
