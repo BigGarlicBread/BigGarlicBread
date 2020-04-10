@@ -172,8 +172,8 @@ class Ui_about_window(object):
 
     def retranslateUi(self, about_window):
         _translate = QtCore.QCoreApplication.translate
-        about_window.setWindowTitle(_translate("about_window", "About COVID-19 Tracker"))
-        self.label.setText(_translate("about_window", "Version 1.0"))
+        about_window.setWindowTitle(_translate("about_window", "About COVID-19 Desktop Tracker v1.1"))
+        self.label.setText(_translate("about_window", "Version 1.1"))
         self.label_2.setText(_translate("about_window", "COVID-19 Desktop Tracker"))
         self.label_3.setText(_translate("about_window", "COVID-19 Desktop Tracker is a Graphical User Interface to retrieve data related to COVID-19 (SARS-CoV-2)."))
         self.label_4.setText(_translate("about_window", "This software enables the user to retrieve data, and visualize the data in the form of graphs."))
