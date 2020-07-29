@@ -1,6 +1,6 @@
 # COVID-19-Desktop-Tracker-v1.1
 
-![Example Image of the software](/images/covid19_01.jpg)
+![Example Image of the software](/images/covid19_01.png)
 
 COVID-19 Desktop Tracker is a Graphical User Interface to retrieve data related to COVID-19 (SARS-CoV-2).
 
