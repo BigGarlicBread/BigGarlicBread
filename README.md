@@ -7,10 +7,10 @@ COVID-19 Desktop Tracker is a Graphical User Interface to retrieve and present d
 
 This software enables the user to retrieve data, visualize the data in the form of graphs, and read some of the few latest news realted to Coronavirus.
 
-Latest data and news is retrieved from three different APIs^. The software was written purely on Python 3.8 and utilizes PyQt for GUI design.
+Latest data and news is retrieved from three different APIs†. The software was written purely on Python 3.8 and utilizes PyQt for GUI design.
 
 *This software has only been tested on Windows 10 64-bit Operating System.
-^Latest data is subject to change depending on availability of APIs.
+†Latest data is subject to change depending on availability of APIs.
 
 
 The latest data is retrieved from:
